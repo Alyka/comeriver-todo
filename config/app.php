@@ -406,5 +406,6 @@ return [
      */
     'Session' => [
         'defaults' => 'php',
+        'cookiePath' => '/'
     ],
 ];
